@@ -48,11 +48,12 @@ https://github.com/yanyanwang-create/cse632-0526/pull/1
 
 Latest Commit Hash
 
-f5632d5f88b8d44992a18b48784f20a2d09896
+57645754621f4d3c730bcc110d4649759c9f2773
+
 
 Merge Conflict Summary
 
-To be completed after merge conflict practice.
+Merge conflict resolved successfully in README.md.
 
 Reflection
 
