@@ -36,15 +36,19 @@ To be added after running git remote -v
 
 Git Status Output
 
-To be added after running git status
+On branch feature/yanyan-wang-assignment-07
+Your branch is up to date with 'origin/feature/yanyan-wang-assignment-07'.
+
+Changes not staged for commit:
+modified: assignment-07/yanyan-wang-git-workflow.md
 
 Pull Request URL
 
-To be added later
+https://github.com/yanyanwang-create/cse632-0526/pull/1
 
 Latest Commit Hash
 
-To be added later
+f5632d5f88b8d44992a18b48784f20a2d09896
 
 Merge Conflict Summary
 
