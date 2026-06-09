@@ -39,8 +39,7 @@ Git Status Output
 On branch feature/yanyan-wang-assignment-07
 Your branch is up to date with 'origin/feature/yanyan-wang-assignment-07'.
 
-Changes not staged for commit:
-modified: assignment-07/yanyan-wang-git-workflow.md
+nothing to commit, working tree clean
 
 Pull Request URL
 
