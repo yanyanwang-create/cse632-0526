@@ -32,7 +32,8 @@ assignment-08/
 final_project/
 Git Remote Output
 
-To be added after running git remote -v
+origin  https://github.com/yanyanwang-create/cse632-0526.git (fetch)
+origin  https://github.com/yanyanwang-create/cse632-0526.git (push)
 
 Git Status Output
 
