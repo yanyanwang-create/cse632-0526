@@ -32,8 +32,8 @@ assignment-08/
 final_project/
 Git Remote Output
 
-origin  https://github.com/yanyanwang-create/cse632-0526.git (fetch)
-origin  https://github.com/yanyanwang-create/cse632-0526.git (push)
+origin  https://github.com/yanyanwang-create/cse632-0526.gi(fetch)
+origin  https://github.com/yanyanwang-create/cse632-0526.git(push)
 
 Git Status Output
 
